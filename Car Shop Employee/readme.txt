@@ -1,0 +1,1 @@
+Created a basic project which tells the total yearly salary of some employees in a car company. Used basic excel knowledge like entering data, navigation, using formulas, manipulating row-columns and such
