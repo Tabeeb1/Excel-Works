@@ -1,1 +1,1 @@
-I will be doing different small projects using excel while learning it and all those projects will be given here. My target will not be to dive into intermediate or advanced features of excel but to have a understanding of basic excel formulas and operations
+I will be doing 3 different small projects using excel while learning it and all those projects will be given here. My target will not be to dive into intermediate or advanced features of excel but to have a understanding of basic excel formulas and operations
